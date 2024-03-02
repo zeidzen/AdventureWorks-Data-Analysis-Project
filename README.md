@@ -1,3 +1,4 @@
+![image](https://github.com/zeidzen/Generation_Interim_Project/assets/36964163/02f64d6d-c986-4fc8-9c22-5bc75fafffe8)
 
 # AdventureWorks Data Analysis Project
 
