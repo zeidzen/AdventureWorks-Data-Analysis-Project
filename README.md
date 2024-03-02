@@ -5,11 +5,6 @@
 ### **Overview**
 This project utilises the AdventureWorks demo database to practise SQL and data analytics skills as part of the Data Analyst Programme at Generation UK & Ireland. Participants will leverage their knowledge of SQL, Python, and data analytics to extract insights from the dataset and present their findings in a comprehensive manner.
 
-### **Learning Objectives**
-- Utilise SQL, Python, and data analytics skills to uncover insights from a sample dataset.
-- Create a presentation deck to communicate analytical results effectively.
-- Deliver a group presentation, demonstrating clear communication of findings.
-
 ### **Duration**
 - Interim Project: 12 hours working sessions + 15-minute presentation
 
