@@ -25,16 +25,5 @@ Participants will work in groups to answer a set of questions using the Adventur
 
 Participants will provide concise, informative, and accurately worded PowerPoint presentations with charts to support their findings.
 
-
-### **Deliverables:**
-1- Summary of open-source libraries comparison linked to the project.
-2- List of generated ideas, including conceptual sketches, functions, and key components.
-3- Written overview describing the database schema, table structure, and entity-relationship model.
-4- Source code for solutions.
-5- Final report providing accurate answers to questions with charts (flexible format).
-
-### **Presentation**
-Each group will deliver a 15-minute presentation based on their final report, followed by 5-10 minutes of Q&A. Time for presentation prep and rehearsal is allocated before the actual presentation.
-
 ![Image](https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg)
 
