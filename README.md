@@ -20,5 +20,10 @@ Participants will work in groups to answer a set of questions using the Adventur
 
 Participants will provide concise, informative, and accurately worded PowerPoint presentations with charts to support their findings.
 
+You can download the AdventureWorks database backup file from the following link:
+
+[AdventureWorks2022.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak)
+
+
 ![Image](https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg)
 
