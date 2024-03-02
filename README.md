@@ -18,12 +18,12 @@ This project utilises the AdventureWorks demo database to practise SQL and data 
 ### Project Instructions and Deliverables
 - Participants will work in groups to answer a set of questions using the AdventureWorks dataset. Questions include:
 
-1- Regional sales in the best-performing country.
-2- Relationship between annual leave taken and bonus.
-3- Relationship between Country and Revenue.
-4- Relationship between sick leave and Job Title (PersonType).
-5- Relationship between store trading duration and revenue.
-6- Relationship between the size of stores, number of employees, and revenue.
+1. Regional sales in the best-performing country.
+2. Relationship between annual leave taken and bonus.
+3. Relationship between Country and Revenue.
+4. Relationship between sick leave and Job Title (PersonType).
+5. Relationship between store trading duration and revenue.
+6. Relationship between the size of stores, number of employees, and revenue.
 
 Participants will provide concise, informative, and accurately worded PowerPoint presentations with charts to support their findings.
 
