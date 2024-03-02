@@ -38,5 +38,5 @@ Participants will provide concise, informative, and accurately worded PowerPoint
 ### Presentation
 Each group will deliver a 15-minute presentation based on their final report, followed by 5-10 minutes of Q&A. Time for presentation prep and rehearsal is allocated before the actual presentation.
 
-![Image](https://www.liquidplanner.com/blog/wp-content/uploads/2019/05/Project-Manager-vs.-Program-Manager-1024x512.png)
+![Image](https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg)
 
