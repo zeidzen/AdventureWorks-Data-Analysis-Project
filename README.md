@@ -14,7 +14,7 @@ This project utilises the AdventureWorks demo database to practise SQL and data 
 - Interim Project: 12 hours working sessions + 15-minute presentation
 
 ### **Project Instructions and Deliverables**
-- Participants will work in groups to answer a set of questions using the AdventureWorks dataset. Questions include:
+Participants will work in groups to answer a set of questions using the AdventureWorks dataset. Questions include:
 
 1. Regional sales in the best-performing country.
 2. Relationship between annual leave taken and bonus.
