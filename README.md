@@ -1,22 +1,19 @@
 ![image](https://github.com/zeidzen/Generation_Interim_Project/assets/36964163/02f64d6d-c986-4fc8-9c22-5bc75fafffe8)
 
-# AdventureWorks Data Analysis Project
+# **AdventureWorks Data Analysis Interim Project**
 
-### Overview
+### **Overview**
 This project utilises the AdventureWorks demo database to practise SQL and data analytics skills as part of the Data Analyst Programme at Generation UK & Ireland. Participants will leverage their knowledge of SQL, Python, and data analytics to extract insights from the dataset and present their findings in a comprehensive manner.
 
-### Learning Objectives
+### **Learning Objectives**
 - Utilise SQL, Python, and data analytics skills to uncover insights from a sample dataset.
 - Create a presentation deck to communicate analytical results effectively.
 - Deliver a group presentation, demonstrating clear communication of findings.
 
-### Duration
+### **Duration**
 - Interim Project: 12 hours working sessions + 15-minute presentation
 
-### Team Structure
-- Group of 3-5 members
-
-### Project Instructions and Deliverables
+### **Project Instructions and Deliverables**
 - Participants will work in groups to answer a set of questions using the AdventureWorks dataset. Questions include:
 
 1. Regional sales in the best-performing country.
@@ -29,14 +26,14 @@ This project utilises the AdventureWorks demo database to practise SQL and data 
 Participants will provide concise, informative, and accurately worded PowerPoint presentations with charts to support their findings.
 
 
-### Deliverables:
+### **Deliverables:**
 1- Summary of open-source libraries comparison linked to the project.
 2- List of generated ideas, including conceptual sketches, functions, and key components.
 3- Written overview describing the database schema, table structure, and entity-relationship model.
 4- Source code for solutions.
 5- Final report providing accurate answers to questions with charts (flexible format).
 
-### Presentation
+### **Presentation**
 Each group will deliver a 15-minute presentation based on their final report, followed by 5-10 minutes of Q&A. Time for presentation prep and rehearsal is allocated before the actual presentation.
 
 ![Image](https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg)
